@@ -1,1 +1,1 @@
-fetching cheems images from an public API
+fetching cheems images from a public API
